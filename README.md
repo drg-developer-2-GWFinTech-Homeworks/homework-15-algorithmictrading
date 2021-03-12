@@ -1,1 +1,0 @@
-# homework-15-algorithmictrading
